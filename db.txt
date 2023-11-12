@@ -1,0 +1,7 @@
+{
+   'Triangle': 3,
+   'Rhombus': 4,
+}
+
+
+
